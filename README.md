@@ -2,8 +2,9 @@
 
 ## Installation
 1. Clone the repository to your local WordPress plugin directory:
-`git clone https://github.com/yourusername/wordpress-popup-plugin.git`
-
+```bash
+git clone https://github.com/yourusername/wordpress-popup-plugin.git
+```
 2. Activate the plugin from the WordPress admin dashboard.
 
 ## Requirements
